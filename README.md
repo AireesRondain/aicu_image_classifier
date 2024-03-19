@@ -1,2 +1,4 @@
-# aicu_image_classifier
+# AI Compatible Units (AICU)
 Image classification model in PyTorch to filter poles from non-poles
+
+In a pivotal project titled "AI Compatible Units," aimed at accelerating asset inventory for an electric distribution company, I developed an image classification model using PyTorch. This model served as the initial filtering phase, efficiently distinguishing between pole and non-pole images within a dataset of 600,000 photos captured by field contractors. By automating the selection of pole images for subsequent annotation and training in object detection, the classifier dramatically enhanced the inventory process. Previously conducted manually over several months, this innovative approach improved efficiency by a factor of 100, showcasing the transformative potential of AI in operational processes.
